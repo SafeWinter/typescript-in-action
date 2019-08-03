@@ -1,5 +1,3 @@
-
-
 # 《`TypeScript` 开发实战》学习笔记
 
 [TOC]
