@@ -8,6 +8,34 @@
 
 ![ES6_vs_TS](./images/L05-02.png)
 
+<table>
+    <caption><h3>ES6 vs TypeScript on data type</h3></caption>
+    <thead>
+        <tr>
+            <th colspan="2">数据类型</th><th>ES6</th><th>TypeScript</th>
+        </tr>
+    <thead>
+    <tbody>
+        <tr><th rowspan="6">基本/原始类型</th><th>Boolean</th><td>√</td><td><b>√</b></td></tr>
+        <tr><th>Number</th><td>√</td><td><b>√</b></td></tr>
+        <tr><th>String</th><td>√</td><td><b>√</b></td></tr>
+        <tr><th>Symbol</th><td>√</td><td><b>√</b></td></tr>
+        <tr><th>undefined</th><td>√</td><td><b>√</b></td></tr>
+        <tr><th>null</th><td>√</td><td><b>√</b></td></tr><tr>
+        <tr><th rowspan="3">引用类型</th><th>Array</th><td>√</td><td><b>√</b></td></tr>
+        <tr><th>Function</th><td>√</td><td><b>√</b></td></tr>
+        <tr><th>Object</th><td>√</td><td><b>√</b></td></tr>
+        <th rowspan="6">新增类型</th><th>void</th><td></td><td><b>√</b></td></tr>
+        <tr><th>any</th><td></td><td><b>√</b></td></tr>
+        <tr><th>never</th><td></td><td><b>√</b></td></tr>
+        <tr><th>元组(tuple)</th><td></td><td><b>√</b></td></tr>
+        <tr><th>枚举(enum)</th><td></td><td><b>√</b></td></tr>
+    	<tr><th>高级类型</th><td></td><td><b>√</b></td></tr>
+    </tbody>
+</table>
+
+
+
 
 
 ### 5.2. 类型注解
