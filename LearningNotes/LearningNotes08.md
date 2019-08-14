@@ -35,7 +35,7 @@ type AddNum1 = (x: number, y: number) => number;
 let addNum1:AddNum1 = (a, b) => (a + b);
 ```
 
-#### 8.2. 混合型接口
+### 8.2. 混合型接口
 
 > **含义**
 >
