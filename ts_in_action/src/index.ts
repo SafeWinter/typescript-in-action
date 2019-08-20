@@ -3,7 +3,8 @@
 // import "./interface"    /* handout for Lesson 7 */
 // import "./interface_L8" /* handout for Lesson 8 */
 // import "./function"     /* handout for Lesson 9 */
-import "./class_L10"       /* handout for Lesson 10 */
+// import "./class_L10"    /* handout for Lesson 10 */
+import "./class_L11"       /* handout for Lesson 11 */
 
-let hello : string = "Lesson 10 - Class - Extension & Modifiers";
+let hello : string = "Lesson 11 - Class - Abstract Class & Polymorphism";
 document.querySelectorAll(".app")[0].innerHTML = hello;
