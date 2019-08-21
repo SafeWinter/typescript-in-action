@@ -174,6 +174,12 @@ class Bus2 extends AutoDemo2 implements AutoInterface2{ }
 
 
 
+### 12.6. 接口与类的关系
+
+![Class vs Interface](./images/L12-01.png)
 
 
-edited by ***Anton*** -- 22:22 2019/8/21
+
+
+
+edited by ***Anton*** -- 22:45 2019/8/21
